@@ -38,13 +38,14 @@ Passenger Selection: Customize the number of adults, children, and infants, and 
 Search Flights: Find flights based on selected parameters.
 Folder Structure
 
-
+```
 lib/
 ├── main.dart                # Entry point of the application
 ├── screens/                 # Contains all screen widgets (e.g., HomeScreen, PassengerSelectionScreen)
 ├── widgets/                 # Custom widgets used in the application
 ├── providers/               # Contains all providers for state management
 └── utils/                   # Utility classes and functions
+```
 
 Screens
 HomeScreen: The main screen where users start their booking journey.
